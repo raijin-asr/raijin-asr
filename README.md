@@ -4,14 +4,14 @@
 
 - 💬 Ask me about **IT stuffs 💻**
 
-- 📫 How to reach me **mail2ameer5rai@gmail.com**
+- 📫 How to reach me: **mail2ameer5rai@gmail.com**
 
-- ⚡ Fun fact **My friends tell me I am funny 😅**
+- ⚡ Fun fact: **My friends tell me I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ameer-rai-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ameer-rai-profile" /></a>
-<a href="https://www.facebook.com/ameer.rai.73/" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ameer-rai-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ameer-rai-profile" /></a>
+<a href="https://www.facebook.com/ameer.rai.73/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
