@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer Sampang Rai</h1>
-<h3 align="center">A passionate Web developer from Nepal 🇳🇵</h3>
+
 
 
 - 💬 Ask me about **IT stuffs 💻**
