@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer Sampang Rai</h1>
-
+ <p align="center">a.k.a <b>"R a i j i n"</b></p><hr>
 
 
 - 💬 Ask me about **IT stuffs 💻**
