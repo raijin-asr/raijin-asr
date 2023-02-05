@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **IT stuffs 💻**
 
-- 📫 How to reach me: **mail2ameer5rai@gmail.com OR luffystrawhat180@gmail.com**
+- 📫 How to reach me: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
 
 - ⚡ Fun fact: **My friends tell me I am funny 😅**
 
