@@ -30,4 +30,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raijin-asr" alt="raijin-asr" /></a> </p></br>
 
-copyright &copy; 2022 | Ameer Sampang Rai
+copyright &copy; 2023 | Ameer Sampang Rai
