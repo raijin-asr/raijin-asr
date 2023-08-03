@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer Sampang Rai</h1>
  <p align="center">a.k.a <b>"R a i j i n"</b></p><hr>
-
+ 
+<h2 align="center"><a href="https://ameersampangrai.com.np/" target="_blank">Visit my Website</a></h2></br>
 
 - 💬 Ask me about **IT stuffs 💻**
 
