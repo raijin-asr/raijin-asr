@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
 
-- ⚡ Fun fact: **My friends tell me I am funny 😅**
+- ⚡ Fun fact: **My friends tell me I am funny and kind 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raijin-asr" alt="raijin-asr" /></a> </p></br>
 
-copyright &copy; 2023 | Ameer Sampang Rai
+copyright &copy; 2024 | Ameer Sampang Rai
