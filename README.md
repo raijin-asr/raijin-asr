@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raijin-asr&show_icons=true&locale=en" alt="raijin-asr" /></p>
 
-<a href="https://app.daily.dev/raijin_asr"><img src="https://api.daily.dev/devcards/bdec6f0135b9427a8bd86b196eff0384.png?r=x4o" width="350" height="350" alt="Ameer Sampang Rai's Dev Card"/></a>
+
 </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raijin-asr" alt="raijin-asr" /></a> </p></br>
