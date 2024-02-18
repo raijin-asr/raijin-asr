@@ -3,6 +3,8 @@
  
 <h2 align="center"><a href="https://ameersampangrai.com.np/" target="_blank">Visit my Website</a></h2></br>
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 - 💬 Ask me about **IT stuffs 💻**
 
 - 📫 How to reach me: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
