@@ -3,7 +3,7 @@
  
 <h2 align="center"><a href="https://ameersampangrai.com.np/" target="_blank">Visit my Website</a></h2></br>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=raijin-asr&style=flat-square&color=blue" alt=""/>
 
 - 💬 Ask me about **IT stuffs 💻**
 
@@ -27,7 +27,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raijin-asr&show_icons=true&locale=en" alt="raijin-asr" /></p>
-
+<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raijin-asr&layout=compact&theme=vision-friendly-dark)](https://github.com/raijin-asr/github-readme-stats)
+</p>
 <a href="https://app.daily.dev/raijin_asr"><img src="https://api.daily.dev/devcards/bdec6f0135b9427a8bd86b196eff0384.png?r=x4o" width="350" height="350" alt="Ameer Sampang Rai's Dev Card"/></a>
 </br>
 
