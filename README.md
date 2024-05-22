@@ -6,7 +6,7 @@
 - 💬 Ask me about **IT stuffs and Programming 💻**
 
 - 📫 How to reach me: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raijin-asr&show_icons=true&locale=en" alt="raijin-asr" /></p>
