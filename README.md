@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Ameer Sampang Rai</h1>
- <p align="center">a.k.a <b>"R a i j i n"</b></p><hr>
+ <p align="center">a.k.a <i><b>"R a i j i n"</b></i></p>
  
 <h2 align="center"><a href="https://ameersampangrai.com.np/" target="_blank">Visit my Website (Click Here)</a></h2></br>
 
 - 💬 Ask me about **IT stuffs and Programming 💻**
 
-- 📫 How to reach me: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
+- 📫 Email: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
