@@ -1,19 +1,10 @@
-<h1 align="center">Hello World 👋, I'm Ameer Sampang Rai</h1>
- <p align="center">a.k.a <i><b>"R a i j i n"</b></i></p>
- 
-<h2 align="center"><a href="https://ameersampangrai.com.np/" target="_blank">Visit my Website (Click Here)</a></h2></br>
-
-- 💬 Ask me about **IT stuffs and Programming 💻**
-
-- 📫 Email: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ameer-rai-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ameer-rai-profile" /></a>
-<a href="https://www.facebook.com/ameer.rai.73/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</p><hr>
+<a href="https://www.facebook.com/ameer.rai.73/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+</p>
+- 📫 Email: **ameer.s.rai180@gmail.com OR luffystrawhat180@gmail.com**
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,12 +49,6 @@
 
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raijin-asr&show_icons=true&locale=en" alt="raijin-asr" /></p>
-
-
 </br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raijin-asr" alt="raijin-asr" /></a> </p></br>
 
 copyright &copy; 2024 | Ameer Sampang Rai
