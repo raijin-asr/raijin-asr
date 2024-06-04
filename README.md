@@ -1,3 +1,22 @@
+![2ASR Banner](https://github.com/raijin-asr/raijin-asr/assets/97660344/ac57fd0d-50de-49de-a0c5-bfe770df2183)
+
+# Bio.js
+    const Bio = {
+      name: 'Ameer Sampang Rai',
+      nickname: 'Raijin',
+      address: {
+            city: 'Kathmandu',
+            country: 'Nepal'
+        },
+    
+      skills: {
+        languages: ["Please", "Scroll", "Down"],
+        databases: ["MySQL", "PostgreSQL", "etc.."],
+        frameworks: ["Derai", "Nai", "Sikya", "Xu"],
+      },
+    };
+# https://ameersampangrai.com.np/
+
 <h3>Languages and Tools:</h3>
 <p> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
