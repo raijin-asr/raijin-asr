@@ -1,6 +1,6 @@
 ![2ASR Banner](https://github.com/raijin-asr/raijin-asr/assets/97660344/ac57fd0d-50de-49de-a0c5-bfe770df2183)
 
-# Bio.js
+# Intro.js
     const Bio = {
       name: 'Ameer Sampang Rai',
       nickname: 'Raijin',
@@ -10,9 +10,9 @@
         },
     
       skills: {
-        languages: ["Please", "Scroll", "Down"],
+        languages: ["Please", "Scroll", "Down","&","Explore"],
         databases: ["MySQL", "PostgreSQL", "etc.."],
-        frameworks: ["Derai", "Nai", "Sikya", "Xu"],
+        others : ["frameworks", "tools(IDE)", "etc.."]
       },
     };
 # https://ameersampangrai.com.np/
