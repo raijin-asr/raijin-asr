@@ -51,4 +51,4 @@
 
 </br>
 
-copyright &copy; 2024 | Ameer Sampang Rai
+copyright &copy; 2024 | Ameer Sampang Rai(Raijin)
