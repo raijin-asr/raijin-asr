@@ -43,7 +43,7 @@
             </div>
         </td>
         <td width="50%">
-            <h3 aligh="center">🧑‍💻 Go on Streak. Push. 🚀</h3>
+            <h3 aligh="center">🧑‍💻 Go on Streak. Commit & Push. 🚀</h3>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr" />
         </td>
     </tr>
