@@ -26,7 +26,10 @@
                 <br><br>
                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-                <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:300/0*IeKuNMsyN2vPzJFp.png" alt="Pandas" width="40" height="40"/> </a>
+                <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django REST framework" width="60" height="40"/> </a>
+                <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
+                <a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="40" height="40"/> </a>
                 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
                 <br><br>
