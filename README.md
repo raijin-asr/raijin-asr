@@ -1,5 +1,4 @@
-![2ASR Banner](https://github.com/raijin-asr/raijin-asr/assets/97660344/ac57fd0d-50de-49de-a0c5-bfe770df2183)
-
+![Banner updated](https://github.com/user-attachments/assets/b8a666ff-bad9-4e33-b11c-9476539e85bf)
 <br>
     <h3 align="left">Languages & Tools:</h3>
 
