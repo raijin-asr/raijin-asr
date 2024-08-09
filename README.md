@@ -35,6 +35,19 @@
                 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
                 <br><br>
+                <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://freshers-in.s3.ap-south-1.amazonaws.com/wp-content/files/2023/02/08121426/nltk_logo.png" alt="NLTK" width="50" height="50"/>
+</a>
+                <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="BeautifulSoup" width="70" height="40"/>
+</a>
+                <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
+</a>
+                <br><br>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
                 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
