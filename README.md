@@ -47,8 +47,16 @@
                 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
 </a>
-                <br><br>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+                <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTTRnKF1tRLansGww8kk6ceZvxZNs4D2tLyOHorQusfUAfzYq7bIt-fftRRIkfuE7VHU" alt="langchain" width="60" height="40"/>
+</a>
+
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="60" height="40"/>
+</a>
+
+<br><br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
                 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
