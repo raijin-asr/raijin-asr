@@ -78,7 +78,8 @@
         </td>
     </tr>
 </table>
-
-</br>
-
+<br>
+    <h3 align="left">Holopin Badge:</h3>
+    ![Holopin first badge](https://github.com/user-attachments/assets/4f10e452-5f4e-4313-8827-62e7a63766a5)
+   <br> 
 copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
