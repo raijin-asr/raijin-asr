@@ -80,6 +80,6 @@
 </table>
 <br>
     <h3 align="left">Holopin Badge:</h3>
-    ![Holopin first badge](https://github.com/user-attachments/assets/4f10e452-5f4e-4313-8827-62e7a63766a5)
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
    <br> 
 copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
