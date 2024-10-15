@@ -80,6 +80,13 @@
 </table>
 <br>
     <h3 align="left">Holopin Badge:</h3>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
+    <table>
+    <tr>
+        <td>
+            <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/> -->
+            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
+         </td>
+    </tr>
+</table>
    <br> 
 copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
