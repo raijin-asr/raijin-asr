@@ -39,7 +39,7 @@
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
 </a>
 <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://freshers-in.s3.ap-south-1.amazonaws.com/wp-content/files/2023/02/08121426/nltk_logo.png" alt="NLTK" width="50" height="50"/>
+    <img src="https://freshers-in.s3.ap-south-1.amazonaws.com/wp-content/files/2023/02/08121426/nltk_logo.png" alt="NLTK" width="40" height="40"/>
 </a>
                 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="BeautifulSoup" width="70" height="40"/>
@@ -55,7 +55,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="60" height="40"/>
 </a>
 
-<br><br>
+<br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
                 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
@@ -84,7 +84,8 @@
     <tr>
         <td>
             <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/> -->
-            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
+            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>-->
+            <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-hoodie-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
          </td>
     </tr>
 </table>
