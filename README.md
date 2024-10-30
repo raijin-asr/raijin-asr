@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="60" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="70" height="40"/>
 </a>
 
 <br>
@@ -62,7 +62,7 @@
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
                 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="IIS" width="40" height="40"/>
                  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="60" height="40"/>
     </a>
                     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
@@ -79,7 +79,7 @@
     </tr>
 </table>
 <br>
-    <h3 align="left">Holopin Badge:</h3>
+    <h3 align="left">Holopin Badges (Open Source Contributions):</h3>
     <table>
     <tr>
         <td>
@@ -90,4 +90,4 @@
     </tr>
 </table>
    <br> 
-copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
+Copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
