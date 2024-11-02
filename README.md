@@ -83,9 +83,10 @@
     <table>
     <tr>
         <td>
-            <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/> -->
-            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>-->
-            <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-hoodie-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>
+            <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/> >
+            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>>>
+            <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-hoodie-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>>>>
+            <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-robe-witch-0.webp" alt="Holopin First Badge" width="140" height="140"/>
          </td>
     </tr>
 </table>
