@@ -1,6 +1,6 @@
 ![Banner updated](https://github.com/user-attachments/assets/b8a666ff-bad9-4e33-b11c-9476539e85bf)
 <br>
-    <h3 align="left">Languages & Tools:</h3>
+    <h3 align="left">Techs:</h3>
 
 <table>
     <tr>
@@ -39,7 +39,7 @@
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
 </a>
 <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://freshers-in.s3.ap-south-1.amazonaws.com/wp-content/files/2023/02/08121426/nltk_logo.png" alt="NLTK" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="NLTK" width="40" height="40"/>
 </a>
                 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="BeautifulSoup" width="70" height="40"/>
@@ -73,13 +73,13 @@
             </div>
         </td>
         <td width="50%">
-            <h3 aligh="center">🧑‍💻 Go on Streak. Commit & Push. 🚀</h3>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr" />
+            <h3 aligh="center">🧑‍💻 On a Streak Mission of 365 days 🚀</h3>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr"/>
         </td>
     </tr>
 </table>
 <br>
-    <h3 align="left">Holopin Badges (Open Source Contributions):</h3>
+    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024):</h3>
     <table>
     <tr>
         <td>
@@ -92,4 +92,4 @@
     </tr>
 </table>
    <br> 
-Copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai(Raijin) </a>
+Copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (Raijin) </a>
