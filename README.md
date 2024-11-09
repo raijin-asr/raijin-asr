@@ -73,13 +73,13 @@
             </div>
         </td>
         <td width="50%">
-            <h3 aligh="center">🧑‍💻 On a Streak Mission of 365 days 🚀</h3>
+            <h3 aligh="center">🧑‍💻 On a Streak Mission of 365 days!! 🚀</h3>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr"/>
         </td>
     </tr>
 </table>
 <br>
-    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024):</h3>
+    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024): 🧑‍💻</h3>
     <table>
     <tr>
         <td>
