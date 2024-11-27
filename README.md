@@ -69,12 +69,14 @@
 
 <a><img src="https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp" alt="Docker" width="60" height="40"/>
 </a>
-<a><img src="https://miro.medium.com/v2/resize:fit:512/1*JEHLmWo6_SrpHPiP4AimIw.png" alt="Docker" width="60" height="40"/>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0tArCfnKpStvnkv2gQtLAN56aWmJ4e5mCQ&s" alt="tailwind" width="60" height="40"/>
 </a>
-<a><img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Docker" width="60" height="40"/>
+<a><img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Kubernetes" width="60" height="40"/>
 </a>
 <br><br>
-                <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  <br><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+                <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  <br>
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
             </div>
         </td>
@@ -85,7 +87,8 @@
     </tr>
 </table>
 <br>
-    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024): 🧑‍💻</h3>
+    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
+    <a href="https://www.holopin.io/@raijin_asr#badges">Click here to Verify </a></br></br>
     <table>
     <tr>
         <td>
