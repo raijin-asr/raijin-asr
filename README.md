@@ -1,5 +1,6 @@
 ![Banner updated](https://github.com/user-attachments/assets/b8a666ff-bad9-4e33-b11c-9476539e85bf)
 <br>
+![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
     <h3 align="left">Techs: 🚀🤖</h3>
 
 <table>
