@@ -70,11 +70,11 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </p></br>
-<h3 aligh="center">🧑‍💻 On a Mission of 365 days of STREAK!! 🚀</h3>
+<h3 aligh="center">🧑‍💻 On a Mission of 365 days STREAK!! 🚀</h3>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr"/> 
 <br>
     <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
-    <a href="https://www.holopin.io/@raijin_asr#badges">Click here to Verify </a></br>
+    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify </b></a></br>
     <table>
     <tr>
         <td>
