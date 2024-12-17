@@ -1,4 +1,4 @@
-![Banner updated](https://github.com/user-attachments/assets/b8a666ff-bad9-4e33-b11c-9476539e85bf)
+![ASR Banner](https://github.com/user-attachments/assets/9cfd50d3-0d17-485e-8d3d-3b407b9f6f31)
 <br>
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
     <h3 align="left">Techs: 🚀🤖</h3>
@@ -13,6 +13,8 @@
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
 </a>
+<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0tArCfnKpStvnkv2gQtLAN56aWmJ4e5mCQ&s" alt="tailwind" width="60" height="40"/>
+</a>
                 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> </a>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
                 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -21,8 +23,9 @@
                 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
                 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
                 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+                </br></br>
                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
                 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django REST framework" width="60" height="40"/> </a>
                 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
@@ -46,6 +49,7 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="70" height="40"/>
 </a>
+</br></br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
                 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
@@ -58,8 +62,6 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 </a>
 <a><img src="https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp" alt="Docker" width="60" height="40"/>
-</a>
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0tArCfnKpStvnkv2gQtLAN56aWmJ4e5mCQ&s" alt="tailwind" width="60" height="40"/>
 </a>
 <a><img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Kubernetes" width="60" height="40"/>
 </a>
@@ -74,7 +76,7 @@
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&" alt="raijin-asr"/> 
 <br>
     <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
-    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify </b></a></br>
+    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a></br></br>
     <table>
     <tr>
         <td>
