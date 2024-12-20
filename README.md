@@ -29,6 +29,7 @@
                 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django REST framework" width="60" height="40"/> </a>
                 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
+                <img src="https://pyfi.com/cdn/shop/articles/seaborn.webp?v=1711983007" alt="Seaborn" width="40" height="40"/> </a>
                 <a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="40" height="40"/> </a>
                 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
@@ -49,6 +50,8 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="70" height="40"/>
 </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sCijPrOxnada_am3uljlfOn23Ku-mAZ7_xq5jg59uBt5QCLTB1lbRtk5RIBkcHc3OJ4" alt="Sklearn" width="70" height="40"/>
+<img src="https://blog.paperspace.com/content/images/size/w1050/2021/01/0_szgpfwmBY_CuZwP8-2.png" alt="Tensorflow" width="70" height="40"/>
 </br></br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
