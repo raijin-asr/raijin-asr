@@ -16,13 +16,9 @@
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0tArCfnKpStvnkv2gQtLAN56aWmJ4e5mCQ&s" alt="tailwind" width="60" height="40"/>
 </a>
                 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> </a>
-                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-                <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
                 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
                 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-                <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-                <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
                 </br></br>
                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -33,29 +29,30 @@
                 <a href="https://en.wikipedia.org/wiki/Pandas_(software)" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Pandas" width="40" height="40"/> </a>
                 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
-                <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
-</a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:592/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="NLTK" width="40" height="40"/>
-</a>
                 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="BeautifulSoup" width="70" height="40"/>
 </a>
                 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
 </a>
+</br></br>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="NLTK" width="40" height="40"/>
+</a>
                 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTTRnKF1tRLansGww8kk6ceZvxZNs4D2tLyOHorQusfUAfzYq7bIt-fftRRIkfuE7VHU" alt="langchain" width="60" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugginh-face" width="70" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmjEBevfH7YP-AnIbZrxkvnBfXRsAP5EvhQ&s" alt="hugging-face" width="70" height="40"/>
 </a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sCijPrOxnada_am3uljlfOn23Ku-mAZ7_xq5jg59uBt5QCLTB1lbRtk5RIBkcHc3OJ4" alt="Sklearn" width="70" height="40"/>
 <img src="https://blog.paperspace.com/content/images/size/w1050/2021/01/0_szgpfwmBY_CuZwP8-2.png" alt="Tensorflow" width="70" height="40"/>
 </br></br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
                 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="IIS" width="40" height="40"/>
                  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
