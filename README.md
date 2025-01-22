@@ -89,4 +89,4 @@
     </tr>
 </table>
    <br> 
-Copyright &copy; 2024 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (Raijin) </a>
+Copyright &copy; 2025 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (Raijin) </a>
