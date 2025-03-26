@@ -89,4 +89,4 @@
     </tr>
 </table>
    <br> 
-Copyright &copy; 2025 | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (Raijin) </a>
+<b>Copyright &copy; 2025</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (aka Raijin) </a>
