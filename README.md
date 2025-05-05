@@ -15,12 +15,15 @@
 </a>
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0tArCfnKpStvnkv2gQtLAN56aWmJ4e5mCQ&s" alt="tailwind" width="60" height="40"/>
 </a>
-                <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> </a>
+<a><img src="https://pssolutions.me/wp-content/uploads/2023/01/React-Native-Logo.png" alt="react native" width="60" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
+</a>
+</br>
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-                <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-                <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-                </br></br>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+                <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGreSQL" width="40" height="40"/>             
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
                 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django REST framework" width="60" height="40"/> </a>
@@ -72,7 +75,7 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </p></br>
-<h3 aligh="center">🧑‍💻 On a Mission of 365 days STREAK!! 🚀</h3>
+<h3 aligh="center">🧑‍💻 Mission of 365 days STREAK - ACHIEVED ✅!! 🚀</h3>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> 
 <br>
     <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
