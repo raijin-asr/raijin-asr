@@ -1,9 +1,12 @@
 ![ASR Banner](https://github.com/user-attachments/assets/9cfd50d3-0d17-485e-8d3d-3b407b9f6f31)
 <br>
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
-    
-<h3 align="left">Techs: 🚀🤖</h3>
 
+<h3 align="center">🧑‍💻 Mission of 365 days STREAK - ACHIEVED ✅!! (..& goes on...🚀)</h3>
+            <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
+<br>
+
+<h3 align="left">Techs: 🚀🤖</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -70,10 +73,7 @@
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </p></br>
-<h3 aligh="center">🧑‍💻 Mission of 365 days STREAK - ACHIEVED ✅!! (..legacy continues...🚀</h3>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> 
-<br>
-    <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
+<h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
     <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a></br></br>
     <table>
     <tr>
