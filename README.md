@@ -1,5 +1,7 @@
-![ASR Banner](https://github.com/user-attachments/assets/9cfd50d3-0d17-485e-8d3d-3b407b9f6f31)
-<br>
+
+![Updated LinkedIn Banner](https://github.com/user-attachments/assets/6456002f-1e1f-4471-8071-2510427b941b)
+</br>
+
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
 <h3 align="center">🧑‍💻 Mission of 365 days STREAK - ACHIEVED ✅!! (..& goes on...🚀)</h3>
@@ -24,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" alt="WPF" width="60" height="40"/>
+<img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="PostGreSQL" width="60" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGreSQL" width="40" height="40"/>  
 </br>
 
