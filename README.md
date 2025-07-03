@@ -9,7 +9,6 @@
 <br>
 
 <h3 align="left">All Techs, Tools, Frameworks: 🚀🤖</h3>
-
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -66,8 +65,8 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p></br>
 
-<h4 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h4>
-    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a></br>
+<h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
+    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a>
     <table>
     <tr>
         <td>
@@ -80,4 +79,4 @@
     </tr>
 </table>
    <br> 
-<b>Copyright &copy; 2025</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (aka Raijin) </a>
+<b>Copyright &copy; 2025</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
