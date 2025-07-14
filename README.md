@@ -8,6 +8,12 @@
             <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
 
+<img width="851" height="315" alt="Python Data Associate" src="https://github.com/user-attachments/assets/02c7b9b7-b63f-4e70-a413-f5310a874b41" />
+</br>
+<img width="851" height="315" alt="SQL Associate" src="https://github.com/user-attachments/assets/50c041de-b4a6-4bb1-9c20-1ef5417c01a8" />
+
+</br>
+
 <h3 align="left">All Techs, Tools, Frameworks: 🚀🤖</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
