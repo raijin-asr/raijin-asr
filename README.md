@@ -4,13 +4,20 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
-<h3 align="center">✅ [ACHIEVED] Mission of 365 days STREAK - !! (New Goal: 2yr Streak🚀)</h3>
+<h3 align="center">✅ [ACHIEVED] Mission of 365 days STREAK in #Github - !! (New Goal: 2yr Streak🚀)</h3>
             <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
 
-<img width="851" height="315" alt="Python Data Associate" src="https://github.com/user-attachments/assets/02c7b9b7-b63f-4e70-a413-f5310a874b41" />
+<h3 align="center"> [ACHIEVED 365 days STREAK of Learning in DataCamp.]</h3>
+<img width="427" height="162" alt="365 ss2" src="https://github.com/user-attachments/assets/d4dae14d-77b1-46d1-9001-1234dc463f7c" />
+<img width="740" height="548" alt="365" src="https://github.com/user-attachments/assets/558ab3f9-0b76-4e40-840b-0bcf8b6d7d11" />
+<img width="736" height="532" alt="365 ss6" src="https://github.com/user-attachments/assets/695499c7-5d6c-48af-b73d-773125704975" />
+
+
+
+<img width="800" height="215" alt="Python Data Associate" src="https://github.com/user-attachments/assets/02c7b9b7-b63f-4e70-a413-f5310a874b41" />
 </br>
-<img width="851" height="315" alt="SQL Associate" src="https://github.com/user-attachments/assets/50c041de-b4a6-4bb1-9c20-1ef5417c01a8" />
+<img width="800" height="215" alt="SQL Associate" src="https://github.com/user-attachments/assets/50c041de-b4a6-4bb1-9c20-1ef5417c01a8" />
 
 </br>
 
