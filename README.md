@@ -1,5 +1,5 @@
 
-![Updated LinkedIn Banner](https://github.com/user-attachments/assets/6456002f-1e1f-4471-8071-2510427b941b)
+<img align="center" src="/Images/Updated LinkedIn Banner.png" alt="raijin-asr"/> 
 </br>
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
@@ -84,10 +84,10 @@
     <tr>
         <td>
             <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/> >
-            <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>>>
-            <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-hoodie-0-0.webp" alt="Holopin First Badge" width="140" height="140"/>>>>
-            <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-robe-witch-0.webp" alt="Holopin First Badge" width="140" height="140"/>>>>>
-            <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-moon.webp" alt="Holopin First Badge" width="140" height="140"/>
+            <img src="/Images/Holopin first badge1.png" alt="Holopin First Badge" width="140" height="140"/>>>
+            <img src="/Images/level 2 sloth.png" alt="Holopin First Badge" width="140" height="140"/>>>>
+            <img src="/Images/level 3 sloth.png" alt="Holopin First Badge" width="140" height="140"/>>>>>
+            <img src="/Images/level 4 badge.png" alt="Holopin First Badge" width="140" height="140"/>
          </td>
     </tr>
 </table>
