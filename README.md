@@ -4,10 +4,9 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
-<h3 align="center">✅ [ACHIEVED] Mission of 365 days STREAK in #Github - !! (New Goal: 2yr Streak🚀)</h3>
+<h3 align="center">✅ [ACHIEVED] Mission of 500 days STREAK in #Github - !! (New Goal: 2yr Streak🚀)</h3>
             <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
-
 <h3 align="left">All Techs, Tools, Frameworks: 🚀🤖</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -71,13 +70,11 @@
 <p align="center"><img width="736" height="532" alt="365 ss6" src="/365 Streak/365 ss6.png" /></p>
 <hr>
 
-
 <p align="center"><img width="800" height="215" alt="Python Data Associate" src="/Images/Python Data Associate - Twitter.png" /></p>
 </br>
 <p align="center"><img width="800" height="215" alt="SQL Associate" src="/Images/SQL Associate - Twitter.png" /></p>
 
 </br>
-
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
     <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a></br>
     <table>
