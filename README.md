@@ -7,8 +7,9 @@
 <h3 align="center">✅ [ACHIEVED] Mission of 500 days STREAK in #Github - !! (New Goal: 2yr Streak🚀)</h3>
             <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
-<h3 align="left">All Techs, Tools, Frameworks: 🚀🤖</h3>
-<p>
+<h3 align="center">All Techs, Tools, Frameworks: 🚀🤖</h3>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -46,7 +47,7 @@
 <img src="https://blog.paperspace.com/content/images/size/w1050/2021/01/0_szgpfwmBY_CuZwP8-2.png" alt="Tensorflow" width="70" height="40"/>
 </br>
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -55,9 +56,8 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="40"/>
 <img src="https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp" alt="Docker" width="60" height="40"/>
 <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Kubernetes" width="60" height="40"/>
-</p>
+</br>
 
-<p>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
