@@ -7,7 +7,7 @@
 <h3 align="center">
             ✅ [ACHIEVED] Mission of 500 days STREAK in #Github - !!
 </h3>
-<h2 align="center"><i> (New Goal: 2yr Streak🚀)</i></h2>
+<h2 align="center"><i> (New Goal: 2 years or 730 Days Streak🚀)</i></h2>
             <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
 <h3 align="center">All Techs, Tools, Frameworks: 🚀🤖</h3>
@@ -79,7 +79,7 @@
 </br>
 <hr>
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
-    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify 👈</b></a></br>
+ <a href="https://www.holopin.io/@raijin_asr#">Check out my Holopin Profile </a></br></br>
     <table>
     <tr>
         <td>
@@ -91,6 +91,7 @@
          </td>
     </tr>
 </table>
+    <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify above Badges👈</b></a></br>
 <br> 
 <hr>
 <b>Copyright &copy; 2025</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
