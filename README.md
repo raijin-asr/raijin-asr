@@ -4,13 +4,15 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
-<h3 align="center">
-            ✅ [ACHIEVED] Mission of 500 days STREAK in #Github - !!
-</h3>
+---
+
+<h3 align="center">✅ [ACHIEVED 500 Days+ STREAK in Github] - !! </h3>
 <h2 align="center"><i> (New Goal: 2 years or 730 Days Streak🚀)</i></h2>
-            <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
-<h3 align="center">All Techs, Tools, Frameworks: 🚀🤖</h3>
+
+--- 
+<h3 align="center">ALL TECHS, TOOLS, FRAMEWORS: 🚀🤖</h3>
 </br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -67,6 +69,7 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p></br>
 <hr>
+
 <h3 align="center"> [ACHIEVED 365 days STREAK of Learning in DataCamp.✅]</h3>
 <p align="center"><img  width="417" height="248" alt="365 ss2" src="/365 Streak/365.png" /></p>
 <p align="center"><img  width="410" height="248" alt="365" src="/365 Streak/365 ss2.png" /></p>
