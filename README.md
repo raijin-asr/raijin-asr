@@ -6,13 +6,13 @@
 
 ---
 
-<h3 align="center">✅ [ACHIEVED 500 Days+ STREAK in Github] - !! </h3>
-<h2 align="center"><i> (New Goal: 2 years or 730 Days Streak🚀)</i></h2>
+<h3 align="center">✅ [ACHIEVED 500 Days+ STREAK] - !! </h3>
+<h2 align="center"><i> (NEW Goal: 2 years or 730 Days Streak.⏳)</i></h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
 
 --- 
-<h3 align="center">ALL TECHS, TOOLS, FRAMEWORS: 🚀🤖</h3>
+<h3 align="center">ALL TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
 </br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
