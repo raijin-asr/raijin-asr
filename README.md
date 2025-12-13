@@ -71,8 +71,8 @@
 <hr>
 
 <h3 align="center"> [ACHIEVED 500 days+ STREAK of Learning in DataCamp.✅]</h3>
-<p align="center"><img  width="417" height="248" alt="365 ss2" src="/365 Streak/365.png" /></p>
-<p align="center"><img  width="410" height="248" alt="365" src="/365 Streak/365 ss2.png" /></p>
+<p align="center"><img  width="417" height="248" alt="365 ss2" src="/365 Streak/500 streak1.png" /></p>
+<p align="center"><img  width="410" height="248" alt="365" src="/365 Streak/500 streak2.png" /></p>
 <p align="center"><img width="736" height="532" alt="365 ss6" src="/365 Streak/365 ss6.png" /></p>
 <hr>
 
