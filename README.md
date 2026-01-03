@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">✅ [ACHIEVED 590 Days+ STREAK] - !! </h3>
+<h3 align="center">✅ [ACHIEVED 600+ Days STREAK] - !! </h3>
 <h2 align="center"><i> (NEW Goal: 2 years or 730 Days Streak.⏳)</i></h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
@@ -71,7 +71,7 @@
 <hr>
 
 <h3 align="center"> [ACHIEVED 500 days+ STREAK of Learning in DataCamp.✅]</h3>
-<p align="center"><img  width="417" height="548" alt="365 ss2" src="/500 streak1.jpeg" /></p>
+<p align="center"><img  width="417" height="748" alt="365 ss2" src="/500 streak1.jpeg" /></p>
 <p align="center"><img  width="410" height="248" alt="365" src="/500 streak2.jpeg" /></p>
 <p align="center"><img width="736" height="532" alt="365 ss6" src="/365 Streak/365 ss6.png" /></p>
 <hr>
@@ -97,4 +97,4 @@
     <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify above Badges👈</b></a></br>
 <br> 
 <hr>
-<b>Copyright &copy; 2025</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
+<b>Copyright &copy; 2026</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
