@@ -6,8 +6,7 @@
 
 ---
 
-<h3 align="center">✅ [ACHIEVED 600+ Days STREAK] - !! </h3>
-<h2 align="center"><i> (NEW Goal: 2 years or 730 Days Streak.⏳)</i></h2>
+<h3 align="center">✅ [ACHIEVED 630+ Days STREAK] & ongoing...- !! </h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raijin-asr&theme=dark" alt="raijin-asr"/> </p>
 <br>
 
@@ -71,9 +70,9 @@
 <hr>
 
 <h3 align="center"> [ACHIEVED 500 days+ STREAK of Learning in DataCamp.✅]</h3>
-<p align="center"><img  width="417" height="748" alt="365 ss2" src="/500 streak1.jpeg" /></p>
-<p align="center"><img  width="410" height="248" alt="365" src="/500 streak2.jpeg" /></p>
-<p align="center"><img width="736" height="532" alt="365 ss6" src="/365 Streak/365 ss6.png" /></p>
+<img   align="left" width="310" height="548" alt="365 ss2" src="/500 streak1.jpeg" />
+<img align="right" width="616" height="310" alt="365 ss6" src="/365 Streak/365 ss6.png" />
+<img  align="right" width="400" height="248" alt="365" src="/500 streak2.jpeg" />
 <hr>
 
 <p align="center"><img width="800" height="215" alt="Python Data Associate" src="/Images/Python Data Associate - Twitter.png" /></p>
