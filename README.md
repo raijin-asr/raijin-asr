@@ -6,7 +6,7 @@
 
 
 --- 
-<h3 align="center">ALL TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
+<h3 align="center">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
 </br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="40"/> 
@@ -14,7 +14,6 @@
 <img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" alt="WPF" width="60" height="40"/>
 <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="PostGreSQL" width="60" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGreSQL" width="40" height="40"/>  
-</br></br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
@@ -24,8 +23,6 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="40"/>
 <img src="https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp" alt="Docker" width="60" height="40"/>
 <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Kubernetes" width="60" height="40"/>
-</br></br>
-
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -34,14 +31,7 @@
 <hr>
 
 <h3 align="center"> [ACHIEVED 500 days+ STREAK of Learning in DataCamp.✅]</h3>
-<img   align="left" width="310" height="548" alt="365 ss2" src="/500 streak1.jpeg" />
-<img align="right" width="616" height="310" alt="365 ss6" src="/365 Streak/365 ss6.png" />
-<img  align="right" width="400" height="248" alt="365" src="/500 streak2.jpeg" />
-<hr>
-
-<p align="center"><img width="800" height="215" alt="Python Data Associate" src="/Images/Python Data Associate - Twitter.png" /></p>
-</br>
-<p align="center"><img width="800" height="215" alt="SQL Associate" src="/Images/SQL Associate - Twitter.png" /></p>
+<img width="210" height="348" alt="365 ss2" src="/500 streak1.jpeg" />
 </br>
 <hr>
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
