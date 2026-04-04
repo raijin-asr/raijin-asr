@@ -4,15 +4,16 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
-<img width="1200" height="1" alt="image" src="https://github.com/user-attachments/assets/eee38a7e-b5c7-4383-bd8b-69261caadf49" />
+<img width="1200" height="1" alt="image" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </br>
-<img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/068fedf0-3596-4b62-8431-b2bf5b54507e" />
+
+<img align="right" width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 
 <h3 align="left">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
 </br>
 
- [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,docker,postgres,aws,azure&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,docker,postgres,aws,azure&theme=light&perline=4)](https://skillicons.dev)
 
 
 <p align="left">
@@ -22,7 +23,7 @@
 </p>
 
 </br>
-<img width="1200" height="1" alt="image" src="https://github.com/user-attachments/assets/eee38a7e-b5c7-4383-bd8b-69261caadf49" />
+<img width="1200" height="1" alt="image" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </br>
 
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
@@ -40,7 +41,7 @@
 </table>
     <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify above Badges👈</b></a></br>
 </br>
-<img width="1200" height="100" alt="image" src="https://github.com/user-attachments/assets/4862b68d-1cbb-4e80-ae5f-3253d8a9f939" />
+<img width="1200" height="100" alt="image" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </br>
 
 <b>Copyright &copy; 2026</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
