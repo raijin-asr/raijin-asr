@@ -4,8 +4,9 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
- 
-<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/bfaafb3e-2e0c-44a3-8620-bf12a8769f57" />
+<img width="1200" height="1" alt="image" src="https://github.com/user-attachments/assets/eee38a7e-b5c7-4383-bd8b-69261caadf49" />
+</br>
+<img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/068fedf0-3596-4b62-8431-b2bf5b54507e" />
 
 
 <h3 align="left">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
@@ -21,8 +22,9 @@
 </p>
 
 </br>
+<img width="1200" height="1" alt="image" src="https://github.com/user-attachments/assets/eee38a7e-b5c7-4383-bd8b-69261caadf49" />
 </br>
-<hr>
+
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
  <a href="https://www.holopin.io/@raijin_asr#">Check out my Holopin Profile </a></br></br>
     <table>
@@ -37,6 +39,8 @@
     </tr>
 </table>
     <a href="https://www.holopin.io/@raijin_asr#badges"><b>Click here to Verify above Badges👈</b></a></br>
-<br> 
-<hr>
+</br>
+<img width="1200" height="100" alt="image" src="https://github.com/user-attachments/assets/4862b68d-1cbb-4e80-ae5f-3253d8a9f939" />
+</br>
+
 <b>Copyright &copy; 2026</b> | <a href="https://ameersampangrai.com.np/"> Ameer Sampang Rai (a.k.a Raijin) </a>
