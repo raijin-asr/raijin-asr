@@ -4,31 +4,24 @@
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
+ 
+<img align="right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/bfaafb3e-2e0c-44a3-8620-bf12a8769f57" />
 
---- 
-<h3 align="center">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
+
+<h3 align="left">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
 </br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="40"/> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGA5shygqxDYDkzwzTWLWF97H01VLuD_s9Q&s" alt="dotnet" width="50" height="40"/>
-<img src="https://eternitech.com/wp-content/uploads/2023/01/WPF-logo.png" alt="WPF" width="60" height="40"/>
-<img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="PostGreSQL" width="60" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostGreSQL" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="IIS" width="40" height="40"/>
-<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="40"/>
-<img src="https://cdn.prod.website-files.com/65cc1a5539029072432d96ce/664e87adb2beaf8e46cc39cd_16x9-Azure-cloud.webp" alt="Docker" width="60" height="40"/>
-<img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" alt="Kubernetes" width="60" height="40"/>
+
+ [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,docker,postgres,aws,azure&theme=light)](https://skillicons.dev)
+
+
+<p align="left">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p></br>
-<hr>
+</p>
 
+</br>
+</br>
 <hr>
 <h3 align="left">Holopin Badges (Open Source Contributions, Hacktoberfest 2024)🧑‍💻</h3>
  <a href="https://www.holopin.io/@raijin_asr#">Check out my Holopin Profile </a></br></br>
