@@ -13,7 +13,14 @@
 <h3 align="left">MY CURRENT TECHS, TOOLS, FRAMEWORKS: 🚀🤖</h3>
 </br>
 
- [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,docker,postgres,aws,azure&theme=light&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git&theme=light&perline=4)](https://skillicons.dev)
+
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+</p>
+
+ [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure&theme=light&perline=3)](https://skillicons.dev)
 
 
 <p align="left">
