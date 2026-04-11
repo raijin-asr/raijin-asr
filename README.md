@@ -1,6 +1,7 @@
 
 <img align="center" src="/Images/Updated LinkedIn Banner.png" alt="raijin-asr"/> 
 </br>
+<img width="1200" height="100" alt="image" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ![snake gif](https://github.com/raijin-asr/raijin-asr/blob/output/github-snake-dark.svg)
 
