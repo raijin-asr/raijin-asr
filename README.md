@@ -18,8 +18,11 @@
 
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
+<img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/6cf3f4ce-91a2-4552-a771-73059dc05c10" />
+
 </p>
+
 
  [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure&theme=light&perline=3)](https://skillicons.dev)
 
